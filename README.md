@@ -1,4 +1,11 @@
-# archtype-of-delay
+# Archtype of delay: Developer comment chain analysis
+
+## Repository content 
+This repository is a complement data provider for the article "*Archetypes of Delay: An Analysis of Developer Comment Chains on Delayed Work Items in IBM Jazz*". Thus, definitions and details, such as symbols meaning, in the paper are not repeated here.  The files in the repository describe: 
+
+- Late work items time series clustering result: [cluster_late_workItem.csv](./cluster_late_workItem.csv "Late work items time series clustering result"),
+- Non-late work items time series clustering result: [cluster_non-late_workItem.csv](./cluster_non-late_workItem.csv "Non-late work items time series clustering result"),
+- Similarity table between symbols of time series: [similarity_table.md](./similarity_table.md "Similarity table between symbols of time series").
 
 ## Context
 Agile software development has been widely adopted because along with flexibility to actively re-scope of project, it also brings responsiveness to quickly deliver a requirement. Moreover, software development process nowadays is distributed thus developers often use packed solution with instant message functionality to exchange information, coordinate their work and keep track of the progression of their projects. These tools generate valuable text data. Despite numerous studies on agile process to give best practice recommendations this last decade, few has been focused on generated textual communication data impact on the workflow.   
