@@ -5,7 +5,7 @@ This repository is a complement data provider for the article "*Archetypes of De
 
 - Late work items time series clustering result: [cluster_late_workItem.csv](./cluster_late_workItem.csv "Late work items time series clustering result"),
 - Non-late work items time series clustering result: [cluster_non-late_workItem.csv](./cluster_non-late_workItem.csv "Non-late work items time series clustering result"),
-- Similarity table between symbols of time series: [similarity_table.md](./similarity_table.md "Similarity table between symbols of time series").
+- Similarity table between symbols in time series: [similarity_table.md](./similarity_table.md "Similarity table between symbols in time series").
 
 ## Context
 Agile software development has been widely adopted because along with flexibility to actively re-scope of project, it also brings responsiveness to quickly deliver a requirement. Moreover, software development process nowadays is distributed thus developers often use packed solution with instant message functionality to exchange information, coordinate their work and keep track of the progression of their projects. These tools generate valuable text data. Despite numerous studies on agile process to give best practice recommendations this last decade, few has been focused on generated textual communication data impact on the workflow.   
